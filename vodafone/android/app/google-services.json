@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773842466440",
+    "project_id": "vodafonexjunction",
+    "storage_bucket": "vodafonexjunction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773842466440:android:737b12d830fa6e5d2e113d",
+        "android_client_info": {
+          "package_name": "com.example.vodafone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773842466440-d0ilka7g5omkvaknob0a6pes1k13gudd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXnPs7ffmIAGZEET9-bgRlVPflcKzwB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773842466440-d0ilka7g5omkvaknob0a6pes1k13gudd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
