@@ -1,5 +1,5 @@
 # JunctionXBudapest
-  This repo is the challenge and shows our solution to the challenge in JunctionXBudapest 2021. We are solving a vodafone challenge. This is the first MVP of out android application.
+  This repo is the challenge and shows our solution to the challenge in JunctionXBudapest 2021. We are solving a vodafone challenge. This is the first MVP of our android application.
 
   We implemented new version of Vodafone App that is really enjoyable to use. You ask why? New features are unique, with no analogs in Hungary. It is gonna capture audience with flexibility of data manipulation, lovely mini game, focus on the user's comfort and benefits.
 
